@@ -17,4 +17,4 @@
 
 ・アクリル箱組ケース制作するときに可能な限りサイドパネルの枚数を減らしたいので、外形を五角形とした。
 
-
+https://github.com/lixs-kazu/lunchbox-kbd/issues/1#issue-457187198
