@@ -19,4 +19,6 @@
 
 ・ケーブル横出しは狭いスペースで作業するときに邪魔になるので上側にケーブルがでるように変更。
 
+・LEDとOLEDに対応。
+
 ![01](https://github.com/lixs-kazu/lunchbox-kbd/issues/1#issue-457187198)
